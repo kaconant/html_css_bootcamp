@@ -1,0 +1,82 @@
+.container {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    height: 700px;
+    background: url("img/atl.png");
+    background-size: cover;
+    text-decoration:none;
+    text-align: center;
+    font-family: Arial;
+    margin: 0 auto;
+
+}
+.headerTop {
+    width: 960px;
+    margin: 0 auto;
+    color: #fff;
+    padding: 1em;
+    text-align: right;
+}
+
+.headerMiddle h1 {
+    width: 960px;
+    margin: 0 auto;
+    color: #fff;
+    font-weight: 100; 
+    font-size: 55px;
+    margin-top: 40px;
+
+}
+.headerMiddle img {
+    margin-top: 150px;
+}
+
+.headerMiddle h4 {
+    width: 960px;
+    margin: 0 auto;
+    color: #aaa;
+    font-weight: 100;
+    font-size: 21px;
+    margin-top: 15px;
+}
+
+.headerArrow {
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#middle {
+
+}
+
+.middleTop {
+
+}
+
+.middleUser {
+
+}
+
+.middleHashtags {
+
+}
+
+.middleMoolah {
+
+}
+
+#footer {
+
+}
+
+.footerTop {
+
+}
+
+.footerBottom {
+
+}
