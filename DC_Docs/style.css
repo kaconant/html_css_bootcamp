@@ -1,0 +1,74 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    position: absolute;
+}
+
+.sideNav {
+    font-weight: 250;
+    color: #fff;
+    background-color: #57585b;
+    width: 20%;
+    height: 100%;
+    display: block;
+    padding: 1em;
+    text-align: left;
+}
+
+.sideNav a {
+    color: #fff;
+}
+
+.sideNav a:hover {
+    color: #fff;
+}
+
+.sideNavTop {
+    padding-bottom: 50px;
+
+}
+.sideNavTop input {
+    background-color: #57585b;
+    color: #ddd;
+}
+
+.sideNavMiddle {
+    padding-bottom: 200px;
+}
+
+.sideNav span {
+    position: absolute;
+    text-align: center;
+    margin: 180px 0 0 0;
+    color: #ddd;
+}
+
+.mainPage {
+
+}
+
+.mainPageTitle {
+    font-size: 15px;
+    font-weight: 100px;
+    margin: 0 0 0 20px;
+    color: #57585b;
+}
+
+.DCTitle {
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.mainPageComment {
+    
+}
