@@ -1,18 +1,58 @@
-.container {
-    padding: 0px;
-    margin: 0px;
+.header {
+    height: 700px;
+    background: url("img/atl.png");
+    background-size: cover;
+    text-align: center;
+    font-family: Arial;
+    margin: 0 auto;
+
+.topBar {
+    text-align: center;
+    margin: 0 auto;
 }
+
+.topArrow {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.middleSection {
+    background-color: #eee;
+}
+
+/* without bootstraps
+.header {
+    height: 700px;
+    background: url("img/atl.png");
+    background-size: cover;
+    text-align: center;
+    font-family: Arial;
+    margin: 0 auto;
+}
+
+.topBar {
+
+}
+
+.topLogo {
+
+}
+
+.topArrow {
+
+}
+
 
 .header {
     height: 700px;
     background: url("img/atl.png");
     background-size: cover;
-    text-decoration:none;
     text-align: center;
     font-family: Arial;
     margin: 0 auto;
 
 }
+
 .headerTop {
     width: 960px;
     margin: 0 auto;
@@ -49,34 +89,61 @@
     margin-top: 200px;
 }
 
-#middle {
 
+.middleSection {
+    background-color: #eee;
 }
 
-.middleTop {
-
+.tagLine {
+    text-align: center;
+    color: #4d4d4d;
+    margin: 100px 0px;
 }
 
-.middleUser {
-
+.first {
+    text-align:right;
+    color: #4d4d4d;
 }
 
-.middleHashtags {
-
+.first img {
+    margin-bottom: 20px;
 }
 
-.middleMoolah {
-
+.first h2 {
+    margin-bottom: 20px;
 }
 
-#footer {
-
+.textWrap {
+    width: 230px;
+    text-align: center;
+    margin: 0 auto;
 }
 
-.footerTop {
+.second {
+    text-align:center;
+    color: #4d4d4d;
+}
+.second img {
+    margin-bottom: 20px;
+}
 
+.second h2 {
+    margin-bottom: 20px;
+}
+
+.third {
+    text-align:left;
+    color: #4d4d4d;
+}
+.third img {
+    margin-bottom: 20px;
+}
+
+.third h2 {
+    margin-bottom: 20px;
 }
 
 .footerBottom {
-
+    text-align
 }
+*/
