@@ -1,0 +1,26 @@
+.container {
+    width: 960px;
+    margin: 5px;
+}
+
+.sidebar {
+    color: #fff;
+    padding: 2%;
+}
+
+.sidebar a {
+    color: #ddd;
+}
+
+.sidebar a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.mainPage {
+    padding: 0 0 0 5%;
+}
+
+.DCTitle {
+    padding: 0 0 5% 0;
+}

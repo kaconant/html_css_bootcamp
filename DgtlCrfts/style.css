@@ -2,22 +2,62 @@
     height: 700px;
     background: url("img/atl.png");
     background-size: cover;
-    text-align: center;
-    font-family: Arial;
-    margin: 0 auto;
-
-.topBar {
-    text-align: center;
     margin: 0 auto;
 }
 
-.topArrow {
+.topBar {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.topBar a {
+    color: #fff;
+    font-family: Arial;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.topLogo {
     text-align: center;
+}
+
+.circle-icon {
+    border:5px solid #eee;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
     margin: 0 auto;
+    font-size: 53px;
+    padding-left: 21px;
+}
+
+.title {
+    text-align: center;
+    font-size: 55px;
 }
 
 .middleSection {
-    background-color: #eee;
+    text-align:center;
+}
+
+.footerSection {
+    background-color: #515151;
+    color: #aaaaaa;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footerSection {
+    color:#aaaaaa;
+    font-family: Arial;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.copyright {
+    font-size: 10px;
+    padding-top: 20px;
 }
 
 /* without bootstraps
